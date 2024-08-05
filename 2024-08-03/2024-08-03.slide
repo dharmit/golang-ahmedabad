@@ -1,0 +1,66 @@
+# Go(lang) for everyone
+
+Dharmit Shah
+3 Aug 2024
+https://dharmitshah.com
+@dharm1t
+
+## $ whoami
+## 
+- Administrator turned support engineer turned developer
+- Dabbled mostly with bash, python and go
+- Breadth based guy, working on depth
+- Working with [SUSE](https://suse.com) on [Rancher](https://www.rancher.com/)
+- Read more in [my resume](https://dharmitshah.com/resume.pdf)
+
+## How it started
+##
+- Fell in love with Linux and C++ circa 2008-2009
+- First real Linux job was as a Linux administrator
+- Then a support engineer at Red Hat
+- Moved to engineering; wrote Python 
+- Wanted to work on OpenStack, but got a project on containers
+
+## My introduction to Go
+##
+- Docker arrived with a bang - it was written in Go
+- Kubernetes arrived next - again a Go project
+- Ecosystem developed around k8s and most (all?) projects were in Go - FOMO
+- Opportunity to work on [odo](https://github.com/redhat-developer/odo) (a Go CLI)
+
+## Working with Go
+## 
+- Confused while switching from Python to Go; took a while
+- At one point, not long ago, decided to [plunge into Go](https://github.com/redhat-developer/odo/pulls?q=is%3Apr+author%3Adharmit+is%3Aclosed)
+- Got to work on:
+    - concurrency primitives
+        - fun but easy to do it wrong
+    - Kubernetes Operator pattern
+        - just reading its code is 🤯
+    - `context` package
+    - interfaces are great, but took me time
+    - [KubeVirt](https://github.com/kubevirt) project
+- Trying to do k8s upstream contribution 🤞
+
+## Resources to learn Go
+## 
+- Golang weekly newsletter
+- [r/golang](https://golang.reddit.com) sub-reddit
+- [Gophers Slack](https://invite.slack.golangbridge.org/)
+    - Join [#ahmedabad](https://gophers.slack.com/archives/C93BND4SW) channel
+    - [#gostudygroup-india](https://gophers.slack.com/archives/CCRM6PTK3) channel
+- [Golang insiders](https://x.com/i/communities/1685641800449462272) community on Twitter
+- Tonnes of Go talks on YouTube
+- [Awesome Go](https://github.com/avelino/awesome-go) repo on GH
+- StackOverflow Q&A
+- Books
+- Articles on the [Go blog](https://go.dev/blog/)
+- Articles and talks by Go's core team
+
+## What next for this meetup group?
+##
+- In-person and virtual meetups
+- Submit a talk/workshop proposal by using the link in the meetup's "About" section
+- Same for a talk/workshop suggestion
+- Learning sessions on Meet/Zoom
+- What else?
